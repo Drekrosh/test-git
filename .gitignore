@@ -1,4 +1,6 @@
 #Untracked folders
 node_module
+.gitignore
+.idea
 #Untracked files
 Thumbs.db
