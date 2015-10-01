@@ -4,7 +4,7 @@ react-webpack-express
 Boilerplate to start developing npm react components with webpack. Includes flux as npm module.
 
 
-Usage
+Usageы
 =====
 
 ```
